@@ -19,7 +19,7 @@ corr read write math science female
       female |  -0.0531   0.2565  -0.0293  -0.1277   1.0000
 ```
 
-![1563175208458](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563175208458.png)
+
 
 **A**. 这个告诉你在这个相关性计算中所使用对象的个数。 这个数据集没有缺失值，因此所有的相关性计算都基于这所有的200个观测值。
 
